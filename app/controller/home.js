@@ -68,7 +68,7 @@ class HomeController extends Controller {
           ],
           "status": 0,
           "inputTime": 0,
-          "courseId": 0,
+          "courseId": 1,
           "level": [
             0,
             2415753
@@ -89,7 +89,7 @@ class HomeController extends Controller {
           ],
           "status": 0,
           "inputTime": 0,
-          "courseId": 0,
+          "courseId": 1,
           "level": [
             81,
             28555
@@ -110,7 +110,7 @@ class HomeController extends Controller {
           ],
           "status": 0,
           "inputTime": 0,
-          "courseId": 0,
+          "courseId": 1,
           "level": [
             0,
             2423435
@@ -131,7 +131,7 @@ class HomeController extends Controller {
           ],
           "status": 0,
           "inputTime": 0,
-          "courseId": 0,
+          "courseId": 1,
           "level": [
             0,
             2423438
