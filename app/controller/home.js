@@ -91,9 +91,8 @@ class HomeController extends Controller {
           "inputTime": 0,
           "courseId": 1,
           "level": [
-            1,
-            2,
-            3
+            0,
+            2423435
           ],
           "responseId": 123,
           "answerTime": 0,
