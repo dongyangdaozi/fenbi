@@ -59,12 +59,12 @@ class HomeController extends Controller {
         {
           "topicId": 26,
           "answerId": 1,
-          "topicContent": null,
+          "topicContent": "放假饿啊就安检加，咖啡安检 阿济格热啊",
           "answerContent": "凤娃飞机文",
           "type": 0,
           "tags": [1,
             2,
-            3
+            4
           ],
           "status": 0,
           "inputTime": 0,
@@ -80,19 +80,20 @@ class HomeController extends Controller {
         {
           "topicId": 27,
           "answerId": 1,
-          "topicContent": null,
+          "topicContent": "放假饿啊就安检加，咖啡安检 阿济格热啊",
           "answerContent": "凤娃飞机文",
           "type": 0,
           "tags": [1,
             2,
-            3
+           4
           ],
           "status": 0,
           "inputTime": 0,
           "courseId": 1,
           "level": [
-            81,
-            28555
+            1,
+            2,
+            3
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -101,19 +102,20 @@ class HomeController extends Controller {
         {
           "topicId": 28,
           "answerId": 1,
-          "topicContent": null,
+          "topicContent": "放假饿啊就安检加，咖啡安检 阿济格热啊",
           "answerContent": "凤娃飞机文",
-          "type": 0,
+          "type": 1,
           "tags": [1,
             2,
-            3
+            4
           ],
           "status": 0,
           "inputTime": 0,
           "courseId": 1,
           "level": [
-            0,
-            2423435
+            1,
+            2,
+            3
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -122,19 +124,20 @@ class HomeController extends Controller {
         {
           "topicId": 29,
           "answerId": 1,
-          "topicContent": null,
+          "topicContent": "放假饿啊就安检加，咖啡安检 阿济格热啊",
           "answerContent": "凤娃飞机文",
-          "type": 0,
+          "type": 1,
           "tags": [1,
             2,
-            3
+            4
           ],
           "status": 0,
           "inputTime": 0,
           "courseId": 1,
           "level": [
-            0,
-            2423438
+            1,
+            2,
+            3
           ],
           "responseId": 123,
           "answerTime": 0,
