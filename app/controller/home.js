@@ -70,8 +70,8 @@ class HomeController extends Controller {
           "inputTime": 0,
           "courseId": 0,
           "level": [
-            100,
-            101
+            0,
+            2415753
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -91,8 +91,8 @@ class HomeController extends Controller {
           "inputTime": 0,
           "courseId": 0,
           "level": [
-            100,
-            101
+            81,
+            28555
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -112,8 +112,8 @@ class HomeController extends Controller {
           "inputTime": 0,
           "courseId": 0,
           "level": [
-            100,
-            101
+            0,
+            2423435
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -133,8 +133,8 @@ class HomeController extends Controller {
           "inputTime": 0,
           "courseId": 0,
           "level": [
-            100,
-            101
+            0,
+            2423438
           ],
           "responseId": 123,
           "answerTime": 0,
