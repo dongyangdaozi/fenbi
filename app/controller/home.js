@@ -71,7 +71,7 @@ class HomeController extends Controller {
           "courseId": 1,
           "level": [
             0,
-            2415753
+            1746690
           ],
           "responseId": 123,
           "answerTime": 0,
@@ -92,7 +92,7 @@ class HomeController extends Controller {
           "courseId": 1,
           "level": [
             0,
-            2423435
+            2448469
           ],
           "responseId": 123,
           "answerTime": 0,
